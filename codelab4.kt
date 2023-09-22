@@ -1,4 +1,5 @@
-// pada codelab4, saya membuat aplikasi mengenai program sederhana yang mencetak informasi mengenai buku
+// Codelab 4: Soal Latihan:Dasar-Dasar Kotlin
+// saya membuat aplikasi mengenai program sederhana yang mencetak informasi mengenai buku
 
 fun main() {
     // Perintah dibawah merupakan cara memanggil fungsi printBookInfo() yang telah dibuat di bawah

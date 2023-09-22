@@ -1,3 +1,5 @@
+// Codelab 2 : Membuat dan menggunakan variabel di Kotlin
+
 fun main() {
     var angka: Int = 1  // Deklarasi variable dengan tipe data Integer
     var nama: String = "Dian" // Deklarasi variable dengan tipe data String

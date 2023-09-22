@@ -1,3 +1,5 @@
+// Codelab 3 : Membuat dan menggunakan fungsi di Kotlin
+
 fun main() {
     panggilNama() // berfungsi untuk memanggil fungsi panggilNama()
     tambah(2, 10) // berfungsi untuk memanggil fungsi tambah()

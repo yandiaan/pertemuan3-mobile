@@ -1,4 +1,4 @@
-// Codelab 1: "Your first program in Kotlin" menjelaskan alur dasar Kotlin.
+// Codelab 1: "Program pertama Anda di Kotlin" menjelaskan alur dasar Kotlin.
 
 // Fungsi main di bawah ini adalah titik masuk (entry point) program Kotlin.
 // Ini berarti bahwa fungsi main adalah fungsi yang pertama kali dijalankan.
